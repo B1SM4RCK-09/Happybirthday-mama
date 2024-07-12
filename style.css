@@ -10,13 +10,10 @@
   .card {
     width: 640px;
     height: 400px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     position: absolute;
     margin: auto;
     left: 0;
-    right: 20rem;
+    right: 0;
     top: 0;
     bottom: 0;
     -webkit-perspective: 1200px;
